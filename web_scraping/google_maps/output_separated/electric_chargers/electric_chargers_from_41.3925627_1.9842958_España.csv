@@ -1,0 +1,16 @@
+charger_station_id,formal_name,power_kw,quantity
+1,Typ 2,· 22 kW,2
+1,Gniazdko ścienne,· 22 kW,2
+2,CHAdeMO,· 50 kW,1/1
+2,Gniazdko ścienne,· 22 kW,2
+2,Typ 2,· 23 kW,0/1
+3,CCS,· 350 kW,6/6
+4,CHAdeMO,· 50 kW,1/1
+4,Gniazdko ścienne,· 22 kW,2
+4,Typ 2,· 43 kW,1/1
+5,CHAdeMO,· 50 kW,1
+5,Gniazdko ścienne,· 22 kW,2
+5,Typ 2,· 11.4 kW,1
+6,CHAdeMO,· 50 kW,1/1
+6,Gniazdko ścienne,· 22 kW,2
+6,Typ 2,· 22 kW,1/1

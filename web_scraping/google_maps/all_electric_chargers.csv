@@ -1,0 +1,139 @@
+charger_station_id,formal_name,power_kw,quantity
+1,CCS,· 150 kW,0/3
+1,CHAdeMO,· 63 kW,1/1
+2,Typ 2,· 22 kW,2
+3,Typ 2,· 22 kW,4
+4,Tesla,· 120 kW,2
+5,Typ 2,· 11 kW,2
+6,Typ 2,· 11 kW,6
+7,Typ 2,· 22 kW,8
+8,Typ 2,· 22 kW,1
+9,CCS,· 135 kW,1/2
+9,CHAdeMO,· 63 kW,1/1
+10,Tesla,· 22 kW,2
+11,Typ 2,· 22 kW,0/1
+12,Typ 2,· 11 kW,18
+13,CCS,· 100 kW,0/1
+13,CHAdeMO,· 63 kW,1/1
+13,Typ 2,· 21 kW,1/1
+14,Typ 2,· 22 kW,2
+15,Typ 2,· 22 kW,4
+16,CCS,· 120 kW,1
+16,CHAdeMO,· 63 kW,1/1
+16,Typ 2,· 22 kW,1
+17,Typ 2,· 22 kW,4
+18,Typ 2,· 11 kW,2
+19,Typ 2,· 22 kW,2
+20,Typ 2,· 11 kW,2
+21,Typ 2,· 11 kW,2
+22,CHAdeMO,· 50 kW,1
+22,CHAdeMO,· 63 kW,1/1
+22,Typ 2,· 22 kW,1
+23,Typ 2,· 22 kW,2
+24,Typ 2,· 11 kW,2
+25,CCS,· 200 kW,2
+26,CCS,· 25 kW,1/1
+26,CHAdeMO,· 63 kW,1/1
+27,Tesla,· 22 kW,2
+28,Typ 2,· 11 kW,2
+29,Typ 2,· 22 kW,6
+30,Tesla,· 22 kW,2
+32,Typ 2,· 11 kW,2/2
+33,Typ 2,· 21 kW,4/4
+34,Typ 2,· 11 kW,4
+35,CCS,· 24 kW,3
+35,CHAdeMO,· 63 kW,1/1
+36,Typ 2,· 22 kW,2
+37,CCS,· 195 kW,1/2
+37,CHAdeMO,· 63 kW,1/1
+37,Typ 2,· 21 kW,0/1
+38,CHAdeMO,· 50 kW,1/1
+38,CHAdeMO,· 63 kW,1/1
+38,Typ 2,· 22 kW,1/1
+40,CHAdeMO,· 50 kW,1/1
+40,CHAdeMO,· 63 kW,1/1
+40,Typ 2,· 22 kW,1/1
+41,Typ 2,· 11 kW,3/12
+42,CHAdeMO,· 50 kW,1/1
+42,CHAdeMO,· 63 kW,1/1
+42,Typ 2,· 22 kW,1/1
+43,Typ 2,· 11 kW,1
+43,CHAdeMO,· 63 kW,1/1
+44,CHAdeMO,· 50 kW,1/1
+44,CHAdeMO,· 63 kW,1/1
+44,Typ 2,· 22 kW,1/1
+45,Typ 2,· 22 kW,4
+46,CHAdeMO,· 50 kW,1
+46,CCS,· 50 kW,1
+46,Typ 2,· 22 kW,2
+47,Typ 2,· 11 kW,2
+48,Tesla,· 22 kW,3
+49,Typ 2,· 22 kW,4/4
+51,CCS,· 44 kW,2/2
+52,Tesla,· 11 kW,2
+53,CHAdeMO,· 50 kW,1/1
+53,CCS,· 50 kW,1
+53,Typ 2,· 22 kW,1/1
+54,CCS,· 100 kW,1
+54,CCS,· 50 kW,1
+54,Typ 2,· 22 kW,1
+55,Tesla,· 22 kW,2
+56,Typ 2,· 21 kW,2/2
+57,CHAdeMO,· 50 kW,1/1
+57,CCS,· 50 kW,1
+57,Typ 2,· 22 kW,1/1
+58,Typ 2,· 11 kW,2
+59,CCS,· 135 kW,2/2
+60,CCS,· 170 kW,2/2
+60,CCS,· 50 kW,1
+61,Tesla,· 250 kW,16
+61,CCS,· 50 kW,1
+63,CCS,· 135 kW,2/2
+63,CCS,· 50 kW,1
+64,CHAdeMO,· 50 kW,1/1
+64,CCS,· 50 kW,1
+64,Typ 2,· 22 kW,1/1
+65,CHAdeMO,· 50 kW,1/1
+65,CCS,· 50 kW,1
+65,Typ 2,· 22 kW,0/1
+66,CCS,· 30 kW,1/1
+67,CHAdeMO,· 50 kW,1/1
+67,CCS,· 50 kW,1
+67,Typ 2,· 22 kW,1/1
+68,CCS,· 20 kW,1/1
+69,CHAdeMO,· 50 kW,1/1
+69,CCS,· 50 kW,1
+69,Typ 2,· 22 kW,1/1
+71,Typ 2,· 11 kW,2
+73,CCS,· 135 kW,2/2
+74,CHAdeMO,· 50 kW,1/1
+74,CCS,· 50 kW,1
+74,Typ 2,· 22 kW,1/1
+75,CHAdeMO,· 50 kW,1/1
+75,CCS,· 50 kW,1
+75,Typ 2,· 22 kW,1/1
+76,Typ 2,· 22 kW,4/4
+77,CCS,· 30 kW,0/1
+77,CCS,· 50 kW,1
+78,CHAdeMO,· 50 kW,1/1
+78,CCS,· 50 kW,1
+78,Typ 2,· 22 kW,1/1
+79,Typ 2,· 22 kW,2/2
+80,CHAdeMO,· 50 kW,1/1
+80,CCS,· 50 kW,1
+80,Typ 2,· 22 kW,0/1
+81,J1772,· 50 kW,1
+81,CCS,· 50 kW,1
+81,Typ 2,· 11 kW,1
+82,CHAdeMO,· 50 kW,1/1
+82,CCS,· 50 kW,1
+82,Typ 2,· 22 kW,1/1
+83,CHAdeMO,· 50 kW,1/1
+83,CCS,· 50 kW,1
+83,Typ 2,· 22 kW,1/1
+85,Typ 2,· 22 kW,2
+86,CCS,· 350 kW,0/6
+87,Typ 2,· 21 kW,2/2
+88,CHAdeMO,· 50 kW,1
+88,CCS,· 50 kW,1
+88,Typ 2,· 22 kW,1

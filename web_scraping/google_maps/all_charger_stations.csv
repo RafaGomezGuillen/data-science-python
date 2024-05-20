@@ -1,0 +1,91 @@
+id,name,address,latitude,longitude,city,post_code,country,continent,iso_code
+1,GreenWay Charging Station,"Żelazna 51, 00-841 Warszawa",52.232227,20.9186042,województwo mazowieckie,00-841,Polska,EU,PL
+2,EV Plus Charging Station,"Stanisława Moniuszki 1a, 00-014 Warszawa",52.232227,20.9186042,województwo mazowieckie,00-014,Polska,EU,PL
+3,EV Plus Charging Station,"Emilii Plater 53, 00-113 Warszawa",52.232227,20.9186042,województwo mazowieckie,00-113,Polska,EU,PL
+4,Tesla Supercharger,"Belwederska 23, 00-761 Warszawa",52.2078553,20.9574651,województwo mazowieckie,00-761,Polska,EU,PL
+5,Porsche Destination Charging,"plac Marszałka Józefa Piłsudskiego 1, 00-078 Warszawa",52.2421,20.9406722,województwo mazowieckie,00-078,Polska,EU,PL
+6,EV Plus Charging Station,"Chmielna 73, 00-801 Warszawa",52.2421,20.9406722,województwo mazowieckie,00-801,Polska,EU,PL
+7,EV Plus Charging Station,"al. Jana Pawła II 29, 00-867 Warszawa",52.2421,20.9406722,województwo mazowieckie,00-867,Polska,EU,PL
+8,EV Plus Charging Station,"Prosta 70, 00-838 Warszawa",52.2298929,20.907696,województwo mazowieckie,00-838,Polska,EU,PL
+9,GreenWay Stacja ładowania,"Leszczyńska, 00-312 Warszawa",52.2408349,20.9541926,województwo mazowieckie,00-339,Polska,EU,PL
+10,Tesla Destination Charger,"al. Jana Pawła II 21, 00-854 Warszawa",52.2408349,20.9541926,województwo mazowieckie,00-854,Polska,EU,PL
+11,GreenWay Charging Station,"Dobra 42, 00-351 Warszawa",52.2408349,20.9541926,województwo mazowieckie,00-312,Polska,EU,PL
+12,EV Plus Charging Station,"Burakowska 14, 01-066 Warszawa",52.2559129,20.906576,województwo mazowieckie,01-066,Polska,EU,PL
+13,Greenway Stacja ładowania,"al. Jerozolimskie 148, 02-326 Warszawa",52.2129707,20.8790566,województwo mazowieckie,02-326,Polska,EU,PL
+14,innogy Polska Charging Station,"Złota 44, 00-120 Warszawa",52.2311669,20.9303781,województwo mazowieckie,00-120,Polska,EU,PL
+15,Nexity Hotels Charging Station,"Grzybowska 58, 00-844 Warszawa",52.2311669,20.9303781,województwo mazowieckie,00-844,Polska,EU,PL
+16,PowerDot Poland Charging Station,"Ostrobramska 101, 04-041 Warszawa",52.2351462,21.0136039,województwo mazowieckie,04-041,Polska,EU,PL
+17,Stacja ładowania Złote Tarasy – ShareP,"Złota, 00-804 Warszawa",52.22997,20.9303382,województwo mazowieckie,00-806,Polska,EU,PL
+18,VIRTA Charging Station,"Złota 44, 00-120 Warszawa",52.22997,20.9303382,województwo mazowieckie,00-120,Polska,EU,PL
+19,EV Plus Charging Station,"Ignacego Prądzyńskiego 12/14, 01-222 Warszawa",52.2245626,20.8906931,województwo mazowieckie,01-222,Polska,EU,PL
+20,EV Plus Charging Station,"al. Jerozolimskie 98, 00-807 Warszawa",52.2245626,20.8906931,województwo mazowieckie,00-807,Polska,EU,PL
+21,E.ON Charging Station,"plac Europejski, 00-844 Warszawa",52.2245626,20.8906931,województwo mazowieckie,00-846,Polska,EU,PL
+22,Stacja ładowania samochodów elektrycznych,"Zagórna 1a, 00-441 Warszawa",52.2261085,20.9699294,województwo mazowieckie,00-441,Polska,EU,PL
+23,EV Plus Charging Station,"Żwirki i Wigury 16B, 02-092 Warszawa",52.1891307,20.9124078,województwo mazowieckie,02-092,Polska,EU,PL
+24,Porsche Destination Charging,"Grzybowska 24, 00-132 Warszawa",52.2365164,20.9264746,województwo mazowieckie,00-132,Polska,EU,PL
+25,Stacja ładowania samochodów elektrycznych,"Wołoska 26, 02-675 Warszawa",52.1853689,20.930838,województwo mazowieckie,02-675,Polska,EU,PL
+26,GreenWay Charging Station,"Radzymińska 78, 03-752 Warszawa",52.262123,20.9833162,województwo mazowieckie,03-752,Polska,EU,PL
+27,Tesla Destination Charger,"Grzybowska 24, 00-132 Warszawa",52.2366693,20.9266437,województwo mazowieckie,00-132,Polska,EU,PL
+28,Porsche Destination Charging,"Marii Konopnickiej 7, 00-491 Warszawa",52.2366693,20.9266437,województwo mazowieckie,00-491,Polska,EU,PL
+29,E.ON Stacja ładowania,"00-001, Warszawa",52.2366693,20.9266437,Warszawa,województwo mazowieckie,Polska,EU,PL
+30,Tesla Destination Charger,"Twarda 4, 00-105 Warszawa",52.2366693,20.9266437,województwo mazowieckie,00-105,Polska,EU,PL
+31,Lidl Charging Station,"Żupnicza 15, 03-816 Warszawa",52.2526057,20.9928774,województwo mazowieckie,03-821,Polska,EU,PL
+32,Nexity Hotels Charging Station,"Sienna 39, 00-121 Warszawa",52.231882,20.9299882,województwo mazowieckie,00-121,Polska,EU,PL
+33,GreenWay Charging Station,72/18 Targowa Warszawa 03-734 PL,52.231882,20.9299882,województwo mazowieckie,03-729,Polska,EU,PL
+34,Stacja ładowania samochodów elektrycznych,"rondo Daszyńskiego 2, 00-843 Warszawa",52.231882,20.9299882,województwo mazowieckie,00-843,Polska,EU,PL
+35,Stacja ładowania samochodów elektrycznych,"Przyokopowa 33, 01-208 Warszawa",52.231882,20.9299882,województwo mazowieckie,01-208,Polska,EU,PL
+36,Elocity Stacja ładowania,"Okopowa 58/72, 01-042 Warszawa",52.2254868,20.9393223,województwo mazowieckie,01-042,Polska,EU,PL
+37,GreenWay Stacja ładowania,"Wołoska 22A, 02-675 Warszawa",52.1853564,20.9307758,województwo mazowieckie,02-675,Polska,EU,PL
+38,ORLEN Stacja ładowania,"Wersalska 3, 03-955 Warszawa",52.223824,20.9873132,województwo mazowieckie,03-955,Polska,EU,PL
+39,VCharge Stacja ładowania,"Wiejska, 00-479 Warszawa",52.2263615,20.9532626,województwo mazowieckie,00-479,Polska,EU,PL
+40,ORLEN Stacja ładowania,"al. Prymasa Tysiąclecia 52, 01-242 Warszawa",52.225541,20.8864022,województwo mazowieckie,01-242,Polska,EU,PL
+41,Nexity Hotels Charging Station,"rondo Daszyńskiego 2B, 00-843 Warszawa",52.225541,20.8864022,województwo mazowieckie,00-839,Polska,EU,PL
+42,ORLEN Stacja ładowania,"Al. Solidarności 100, 01-016 Warszawa",52.225541,20.8864022,województwo mazowieckie,01-016,Polska,EU,PL
+43,Punkt ładowania samochodów elektrycznych,"Hoża 63/67, 00-681 Warszawa",52.2246708,20.9351375,województwo mazowieckie,00-681,Polska,EU,PL
+44,ORLEN Stacja ładowania,"Ostrobramska 124, 04-026 Warszawa",52.236619,21.0156502,województwo mazowieckie,04-118,Polska,EU,PL
+45,EV Plus Charging Station,"Mogilska 53, 31-516 Kraków",50.0646505,19.9346813,województwo małopolskie,31-546,Polska,EU,PL
+46,Charge And Drive Charging Station,"Reduta 28, 31-421 Kraków",50.094392,19.9624959,województwo małopolskie,31-421,Polska,EU,PL
+47,Porsche Destination Charging,"Powiśle 7, 31-101 Kraków",50.055752,19.9127466,województwo małopolskie,31-101,Polska,EU,PL
+48,Tesla Destination Charger,"Pawia 3, 31-154 Kraków",50.0656382,19.9271694,województwo małopolskie,31-154,Polska,EU,PL
+49,Last Mile Solutions Charging Station,"Armii Krajowej 18, 30-150 Kraków",50.071549,19.8778996,województwo małopolskie,30-150,Polska,EU,PL
+50,"EV Charging Outlet, Blue Parking F5","aleja Ignacego Daszyńskiego 32, 31-537 Kraków",50.071549,19.8778996,województwo małopolskie,31-534,Polska,EU,PL
+51,GreenWay Charging Station,"Stanisława Lema, 31-572 Kraków",50.0696176,19.9697743,województwo małopolskie,31-564,Polska,EU,PL
+52,Tesla Destination Charger,"Powiśle 7, 31-101 Kraków",50.0696176,19.9697743,województwo małopolskie,31-101,Polska,EU,PL
+53,GO+EAuto Charging Station,"Aleja Pokoju 67, 31-564 Kraków",50.0561688,19.9126657,województwo małopolskie,31-580,Polska,EU,PL
+54,PowerDot Charging Station,"Włodzimierza Tetmajera 83, 31-352 Kraków",50.0982503,19.8492969,województwo małopolskie,31-344,Polska,EU,PL
+55,Tesla Destination Charger,"Wygoda 8, 31-106 Kraków",50.0573928,19.9091897,województwo małopolskie,31-106,Polska,EU,PL
+56,GreenWay Charging Station,"Jasnogórska 2, 31-358 Kraków",50.0887403,19.8755262,województwo małopolskie,31-385,Polska,EU,PL
+57,ORLEN Stacja ładowania,"Kamienna 18, 31-403 Kraków",50.0887403,19.8755262,województwo małopolskie,31-403,Polska,EU,PL
+58,Porsche Destination Charging,"al. 3 Maja 47A, 30-062 Kraków",50.0771808,19.9298413,województwo małopolskie,30-062,Polska,EU,PL
+59,GreenWay Stacja ładowania,"69, Opolska, 31-355 Kraków",50.0911135,19.9043153,województwo małopolskie,31-277,Polska,EU,PL
+60,GreenWay Stacja ładowania,"83, Władysława Łokietka, 31-280 Kraków",50.0911135,19.9043153,województwo małopolskie,31-263,Polska,EU,PL
+61,Tesla Supercharger,"Henryka Kamieńskiego 11, 30-644 Kraków",50.0285485,19.9307689,województwo małopolskie,30-644,Polska,EU,PL
+62,PowerDot Charging Station,"Podgórska, 31-536 Kraków",50.0537367,19.9378575,województwo małopolskie,31-536,Polska,EU,PL
+63,GreenWay Stacja ładowania,"al. Jana Pawła II 43, 31-000 Kraków",50.0742317,19.9808912,województwo małopolskie,31-157,Polska,EU,PL
+64,ORLEN Stacja ładowania,"Zakopiańska 58D, 30-418 Kraków",50.017718,19.9142231,województwo małopolskie,30-418,Polska,EU,PL
+65,ORLEN Stacja ładowania,"Mogilska 122, 31-445 Kraków",50.0690518,19.9613546,województwo małopolskie,31-445,Polska,EU,PL
+66,Last Mile Solutions Charging Station,"Zakopiańska 167, 32-020 Kraków",49.9988549,19.9021508,województwo małopolskie,30-435,Polska,EU,PL
+67,ORLEN Stacja ładowania,"Kazimierza Wielkiego 121, 30-081 Kraków",50.075118,19.8922372,województwo małopolskie,30-080,Polska,EU,PL
+68,GreenWay Stacja ładowania,"34, Gęsia, 31-536 Kraków",50.075118,19.8922372,województwo małopolskie,31-536,Polska,EU,PL
+69,ORLEN Stacja ładowania,"Nowohucka 71, 30-728 Kraków",50.0458661,19.9592882,województwo małopolskie,30-711,Polska,EU,PL
+70,Stacja ładowania samochodów elektrycznych,30-001 Kraków,50.0684102,19.9273049,Kraków,województwo małopolskie,Polska,EU,PL
+71,Powerstop - Kraków Powstańców Śląskich Charging Station,30-570 Kraków,50.0364978,19.9297508,Kraków,województwo małopolskie,Polska,EU,PL
+72,GreenWay Stacja ładowania,"Pawia 5, 31-154 Kraków",50.068052,19.9286855,województwo małopolskie,31-154,Polska,EU,PL
+73,Greenway Stacja ładowania,"Góra Libertowska 8, 30-444 Libertów",49.9807988,19.891167,województwo małopolskie,30-444,Polska,EU,PL
+74,GreenWay Stacja ładowania,"Stawowa 61, 31-346 Kraków",50.0916213,19.8787087,województwo małopolskie,31-346,Polska,EU,PL
+75,ORLEN Stacja ładowania,"Armii Krajowej 21a, 30-150 Kraków",50.071251,19.8755087,województwo małopolskie,30-150,Polska,EU,PL
+76,Stacja ładowania samochodów elektrycznych,"Josepha Conrada 66, 31-357 Kraków",50.0891967,19.8805939,województwo małopolskie,31-357,Polska,EU,PL
+77,EQUAY Charging Station,"Krakowska 33, 32-020 Wieliczka",49.9952181,20.0201176,województwo małopolskie,32-020,Polska,EU,PL
+78,ORLEN Stacja ładowania,"Osiedle Józefa Strusia 24, 31-807 Kraków",50.0882085,19.9874474,województwo małopolskie,31-810,Polska,EU,PL
+79,Nexity Hotels Charging Station,"Josepha Conrada 29, 31-357 Kraków",50.088516,19.8843078,województwo małopolskie,30-357,Polska,EU,PL
+80,GreenWay Polska,"Stanisława Stojałowskiego 12, 32-020 Kraków",50.0053811,19.9306309,województwo małopolskie,30-611,Polska,EU,PL
+81,ABB Stacja ładowania,"Osiedle Kombatantów 16A, 31-630 Kraków",50.089604,19.9882263,województwo małopolskie,31-630,Polska,EU,PL
+82,Lidl Charging Station,"Polna, 32-085 Modlnica",50.1262863,19.8508475,województwo małopolskie,32-085,Polska,EU,PL
+83,GreenWay Stacja ładowania,"Krakowska 14C, 32-020 Wieliczka",49.9943977,20.0156733,województwo małopolskie,32-020,Polska,EU,PL
+84,Stacja ładowania samochodów elektrycznych,"Zabłocie, 30-001 Kraków",50.0446679,19.9498949,Kraków,województwo małopolskie,Polska,EU,PL
+85,Elocity Stacja ładowania,"Stańczyka 5, 30-126 Kraków",50.0784173,19.8770556,województwo małopolskie,30-126,Polska,EU,PL
+86,Elocity Stacja ładowania,"Stanisława Chmielka, 32-050 Skawina",49.989076,19.8163746,województwo małopolskie,33-050,Polska,EU,PL
+87,GreenWay Charging Station,"Zakopiańska 70A, 30-418 Kraków",50.0106633,19.911879,województwo małopolskie,30-421,Polska,EU,PL
+88,GreenWay Stacja ładowania,"Olszanicka 174, 32-083 Kraków",50.073338,19.7905346,województwo małopolskie,31-083,Polska,EU,PL
+89,NOXO Stacja ładowania,"Starowiślna 13, 31-038 Kraków",50.0580084,19.924841,województwo małopolskie,31-038,Polska,EU,PL
+90,TESLA ELECTRUM,"Mogilska 40, 31-546 Kraków",50.066666,19.9451445,województwo małopolskie,31-546,Polska,EU,PL

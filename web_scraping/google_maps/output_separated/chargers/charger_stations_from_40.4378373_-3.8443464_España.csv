@@ -1,0 +1,6 @@
+id,name,address,latitude,longitude,city,post_code,country,continent,iso_code
+1,Wenea Charging Station,"Av. de Monteclaro, s/n, 28223 Madrid, Hiszpania",40.4424104,-3.8812131,Comunidad de Madrid,28221,España,EU,ES
+2,ChargePoint Charging Station,"Ctra. de Pozuelo, 32, 28220 Majadahonda, Madrid, Hiszpania",40.4424104,-3.8812131,Comunidad de Madrid,28221,España,EU,ES
+3,Powerdot Charging Station,"Carretera de El Plantío, 28221 Majadahonda, Madrid, Hiszpania",40.4742993,-3.8850809,Comunidad de Madrid,28221,España,EU,ES
+4,Enel X Charging Station,"Calle Manuel de Falla, 3, 28222 Majadahonda, Madrid, Hiszpania",40.4491751,-3.8964412,Comunidad de Madrid,28222,España,EU,ES
+5,Nissan Charging Station,"C. Cereza, 8, 28222 Majadahonda, Madrid, Hiszpania",40.4491751,-3.8964412,Comunidad de Madrid,28222,España,EU,ES
